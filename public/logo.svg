@@ -1,0 +1,17 @@
+<svg width="180" height="40" viewBox="0 0 180 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4F46E5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background circle -->
+  <circle cx="20" cy="20" r="18" fill="url(#gradient)"/>
+
+  <!-- TP Text in circle -->
+  <text x="20" y="28" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle">TP</text>
+
+  <!-- Text next to logo -->
+  <text x="45" y="27" font-family="Arial, sans-serif" font-size="18" font-weight="600" fill="#1F2937">Text to PNG</text>
+</svg>

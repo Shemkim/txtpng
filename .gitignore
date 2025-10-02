@@ -1,0 +1,11 @@
+/node_modules
+/.next
+/out
+
+# Sensitive files
+lib/firebase.ts
+lib/admin.ts
+firestore.rules
+
+# Firebase cache
+.firebase
